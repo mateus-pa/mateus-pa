@@ -16,7 +16,7 @@ Meu nome é Mateus Pinheiro, sou **Back-end Developer**, e estou em transição 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:mateuspinheiro1410@hotmail.com">
-  <img src="https://media.tenor.com/mpRJETAa-WwAAAAd/chopper-tony-chopper.gif" />
+  <img src="https://media.tenor.com/mpRJETAa-WwAAAAd/chopper-tony-chopper.gif"/>
 
 ## 👨🏽‍💻 Hard Skills:
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -25,6 +25,5 @@ Meu nome é Mateus Pinheiro, sou **Back-end Developer**, e estou em transição 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
