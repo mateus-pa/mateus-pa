@@ -1,6 +1,6 @@
 # Olá, mundo! 👋
 
-Meu nome é Mateus Pinheiro, sou **Back-end Developer** e estou em transição de carreira para me tornar um programador. Atualmente trabalho informalmente no setor administrativo de uma empresa de engenharia e construção civil. A árdua jornada de estudos sobre programação começou durante o ano de 2022. Atualmente sou aluno bolsistas do programa do @Ifood, em parceria com a @CubosAcadamy, do curso de desenvolvimento de software com foco em Back-end.
+Meu nome é Mateus Pinheiro, sou **Back-end Developer** e estou em transição de carreira para me tornar um programador. Atualmente trabalho informalmente no setor administrativo de uma empresa de engenharia e construção civil. A árdua jornada de estudos sobre programação começou durante o ano de 2022. Atualmente sou aluno bolsistas do programa do [@Ifood](https://www.ifood.com.br/), em parceria com a [@CubosAcademy](https://aulas.cubos.academy/), do curso de desenvolvimento de software com foco em Back-end.
 
 ## 🆔 Onde me encontrar:
 <a href="https://www.linkedin.com/in/mateus-pa/">
@@ -16,8 +16,7 @@ Meu nome é Mateus Pinheiro, sou **Back-end Developer** e estou em transição d
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:mateuspinheiro1410@hotmail.com">
-  <img src="https://media.tenor.com/mpRJETAa-WwAAAAd/chopper-tony-chopper.gif" width="35px" />
-</a>
+  <img src="https://media.tenor.com/mpRJETAa-WwAAAAd/chopper-tony-chopper.gif" />
 
 ## 👨🏽‍💻 Hard Skills:
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
