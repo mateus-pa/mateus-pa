@@ -15,7 +15,7 @@ Meu nome é Mateus Pinheiro, sou **Back-end Developer** e estou em transição d
 <a href="https://github.com/mateus-pa">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mateuspinheiro1410@hotmail.com">
+<a href="mailto:mateuspinheiro1410@hotmail.com">
   <img src="https://media.tenor.com/mpRJETAa-WwAAAAd/chopper-tony-chopper.gif" width="35px" />
 </a>
 
