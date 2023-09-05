@@ -1,6 +1,6 @@
 # 👋 Olá, mundo! 👋
 
-Meu nome é Mateus Pinheiro, sou **Back-end Developer**, e estou em transição de carreira para me tornar um programador. Atualmente trabalho informalmente no setor administrativo de uma empresa de engenharia e construção civil. A minha árdua jornada de estudos sobre programação começou durante o ano de 2022. Atualmente sou aluno bolsistas do programa do [@Ifood](https://www.ifood.com.br/), em parceria com a [@CubosAcademy](https://aulas.cubos.academy/), do curso de desenvolvimento de software com foco em Back-end.
+Meu nome é Mateus Pinheiro, sou **Back-end Developer**, e estou em transição de carreira para me tornar um programador. Atualmente trabalho informalmente no setor administrativo de uma empresa de engenharia e construção civil. A minha árdua jornada de estudos sobre programação começou durante o ano de 2022. Atualmente sou aluno bolsistas do programa do [@PotênciaTech](https://potenciatech.com.br/), em parceria com a [@CubosAcademy](https://aulas.cubos.academy/), do curso de desenvolvimento de software com foco em Back-end.
 
 ## 🆔 Onde me encontrar:
 <a href="https://www.linkedin.com/in/mateus-pa/">
