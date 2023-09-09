@@ -2,7 +2,7 @@
 
 Meu nome é Mateus Pinheiro, sou **Back-end Developer**, e estou em transição de carreira para me tornar um programador. Atualmente trabalho informalmente no setor administrativo de uma empresa de engenharia e construção civil. A minha árdua jornada de estudos sobre programação começou durante o ano de 2022. Atualmente sou aluno bolsista do programa do [@PotênciaTech](https://potenciatech.com.br/), em parceria com a [@CubosAcademy](https://aulas.cubos.academy/), do curso de desenvolvimento de software com foco em Back-end.
 
-## 🆔 Onde me encontrar:
+## 🔍 Onde me encontrar
 <a href="https://www.linkedin.com/in/mateus-pa/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -15,10 +15,11 @@ Meu nome é Mateus Pinheiro, sou **Back-end Developer**, e estou em transição 
 <a href="https://github.com/mateus-pa">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<br></br>
 <a href="mailto:mateuspinheiro1410@hotmail.com">
-  <img src="https://media.tenor.com/mpRJETAa-WwAAAAd/chopper-tony-chopper.gif"/>
+  <img height=100 src="https://media.tenor.com/mpRJETAa-WwAAAAd/chopper-tony-chopper.gif"/>
 
-## 👨🏽‍💻 Hard Skills:
+## 👨🏽‍💻 Hard Skills
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -26,4 +27,10 @@ Meu nome é Mateus Pinheiro, sou **Back-end Developer**, e estou em transição 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-pa)
+## 🖥️ GitHub Stats
+<a href="https://github.com/mateus-pa/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mateus-pa&theme=jolly" />
+</a>
+<a href="https://github.com/mateus-pa/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus-pa&layout=compact&langs_count=8&card_width=320&theme=jolly" />
+</a>
