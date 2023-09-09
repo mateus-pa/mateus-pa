@@ -1,5 +1,4 @@
 # 👋 Olá, mundo! 👋
-
 Meu nome é Mateus Pinheiro, sou **Back-end Developer**, e estou em transição de carreira para me tornar um programador. Atualmente trabalho informalmente no setor administrativo de uma empresa de engenharia e construção civil. A minha árdua jornada de estudos sobre programação começou durante o ano de 2022. Atualmente sou aluno bolsista do programa do [@PotênciaTech](https://potenciatech.com.br/), em parceria com a [@CubosAcademy](https://aulas.cubos.academy/), do curso de desenvolvimento de software com foco em Back-end.
 
 ## 🔍 Onde me encontrar
@@ -28,9 +27,9 @@ Meu nome é Mateus Pinheiro, sou **Back-end Developer**, e estou em transição 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 🖥️ GitHub Stats
-<a href="https://github.com/mateus-pa/github-readme-stats">
+<a href="https://github.com/mateus-pa/mateus-pa">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mateus-pa&theme=jolly" />
 </a>
-<a href="https://github.com/mateus-pa/convoychat">
+<a href="https://github.com/mateus-pa/mateus-pa">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus-pa&layout=compact&langs_count=8&card_width=320&theme=jolly" />
 </a>
